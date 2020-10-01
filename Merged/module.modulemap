@@ -1,0 +1,5 @@
+framework module Merged {
+  umbrella header "Merged.h"
+
+  explicit module * { export * }
+}
